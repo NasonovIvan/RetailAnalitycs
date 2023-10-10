@@ -15,7 +15,7 @@ A more detailed description for filling in these views will be given below.
 
 The picture of database is below.
 
-[database](/materials/schema.jpg)
+![database](/materials/schema.jpg)
 
 ### Input Data
 
